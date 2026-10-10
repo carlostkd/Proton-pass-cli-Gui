@@ -1,0 +1,8 @@
+# Proton Pass CLI GUI Dependencies
+# Most dependencies are part of Python's standard library:
+# - tkinter
+# - ttk
+# - filedialog
+# - messagebox
+# - os, re, subprocess, threading
+
